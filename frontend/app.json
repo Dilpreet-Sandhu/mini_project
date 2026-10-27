@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Roomline",
+    "slug": "roomline",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "roomline",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.roomline.campus" },
+    "android": { "package": "com.roomline.campus" },
+    "web": { "name": "Roomline", "bundler": "metro" },
+    "plugins": ["expo-secure-store"]
+  }
+}
